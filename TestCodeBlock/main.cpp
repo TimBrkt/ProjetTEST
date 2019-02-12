@@ -11,7 +11,11 @@ int main()
 =======
     cout << "C'est Tim" << endl ;
     cout << "Paolo t'es ou ??" << endl ;
+<<<<<<< HEAD
     cout << "PAS LA"
->>>>>>> 8c136401b801e03f766369a180b04c434b76181b
+
+=======
+    cout << "Carine je la pine"<< endl ;
+    cout << "ON LA PINE"<<endl;
     return 0;
 }
