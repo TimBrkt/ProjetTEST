@@ -8,6 +8,6 @@ int main()
     cout << "Arthur" << endl;
     cout << "C'est Tim" << endl ;
     cout << "Paolo t'es ou ??" << endl ;
-    cout << "Carine je la pine"<< endl ;
+    cout << "Arthur en galere mdr"<< endl ;
     return 0;
 }
