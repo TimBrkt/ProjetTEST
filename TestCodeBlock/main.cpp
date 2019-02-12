@@ -20,6 +20,10 @@ int main()
     cout << "ON LA PINE"<<endl;
 =======
     cout << "Arthur en galere mdr"<< endl ;
+<<<<<<< HEAD
 >>>>>>> 93f5b7e33d19da7632f880f5d5be6f7b6d673591
+=======
+    cout << "Arthur elle est ou la jalousie maintenant ejfizoiejfoiezjf" << endl;
+>>>>>>> c989a6029a5feba261f3621fedfabd5046e326a8
     return 0;
 }
